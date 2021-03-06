@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Dropdown from './components/Dropdown';
+// import Dropdown from './components/Dropdown';
 import Translate from './components/Translate';
 // import Accordian from './components/Accordion';
 // import Search from './components/Search';
